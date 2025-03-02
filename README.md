@@ -4,3 +4,6 @@
 
 [PHP 8.3.x から PHP 8.4.x への移行](https://www.php.net/manual/ja/migration84.php)
 
+## 新機能
+
+- [プロパティフック](./src/new-features/property-hooks/)
